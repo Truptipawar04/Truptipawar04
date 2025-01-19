@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Truptipawar04 💗
-- 👀 I’m interested in web-development.
-- 🌱 I’m currently learning  Java Full-stack web development.
+- 👀 I’m interested in Web-Development.
+- 🌱 I’m currently learning Full-stack web development.
 - 😄 Pronouns: she/her.
   
 
